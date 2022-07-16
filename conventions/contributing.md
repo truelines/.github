@@ -32,6 +32,9 @@ If you decide to fix an issue, please be sure to check the comment thread in cas
 
 If somebody claims an issue but doesn't follow up for more than a week, it's fine to take it over but you should still leave a comment. If there has been no activity on the issue for 7 to 14 days, it is safe to assume that nobody is working on it.
 
+## Commit style guide
+Please read the [commit style guide 📕](https://github.com/TruelinesHQ/.github/blob/main/conventions/commit-style.md) to learn how we push commits.
+
 ## Sending a Pull Request
 The  is a community project, so Pull Requests are always welcome, but, before working on a large change, it is best to open an issue first to discuss it with the maintainers.
 
