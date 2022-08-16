@@ -6,7 +6,8 @@ When contributing or making commits in this repo, please make sure to use the sy
 | ----- | ------ | -------------------------------------------------------------------------------------------- |
 | chore | 🤠     | Changes made in the config files or files other than the source files                        |
 | docs  | 🧐     | Changes related to documentation of the software, contributing files, or internal documents. |
-| core  | 🥸     | Changes to the source code                                                                   |
+| feat  | 🕶     | New feature                                                                                  |
+| fix   | 🥱     | When an issue or big is fixed                                                                |
 
 Syntax for a commit would be:
 ```
