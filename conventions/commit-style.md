@@ -8,6 +8,7 @@ When contributing or making commits in this repo, please make sure to use the sy
 | docs  | 🧐     | Changes related to documentation of the software, contributing files, or internal documents. |
 | feat  | 😎     | New feature or improvement                                                                   |
 | fix   | 🥱     | When an issue or big is fixed                                                                |
+| deprecate | 🔻  | Deprecate an API or feature                                                                 |
 
 Syntax for a commit would be:
 ```
